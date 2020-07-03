@@ -1,4 +1,4 @@
-# PHP-TextMining-AplikasiPengoreksianJawabanEssay
+# PHP-TextMining-UEAPPS-AplikasiPengoreksianJawabanEssay
 UEAPPS merupakan sebuah aplikasi yang dapat membantu dosen dan mahasiswa dalam melaksanakan ujian berbentuk Essay, dengan Text Mining sebagai metode nya dapat menghasilkan nilai yang cukup akurat
 
 Aplikasi ini merupakan Project yang dikerjakan oleh 3 orang :
