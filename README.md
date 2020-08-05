@@ -8,7 +8,7 @@ Aplikasi ini merupakan Project yang dikerjakan oleh 3 orang :
 2. Hayyu Hudoyo Dwipradityo
 3. Rafialdy Cakra mussafa
 
-Buatlah database baru dengan nama 'csb' terlebih dahulu, lalu import file csb.sql yang berada dalam folder 'database' 
+Buatlah database baru dengan nama 'csb' terlebih dahulu, lalu import file 'csb.sql' yang berada dalam folder 'database' 
 setelah database telah selesai dibuat maka program sudah dapat dijalankan
 
 Login Admin :
